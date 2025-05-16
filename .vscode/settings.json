@@ -1,0 +1,7 @@
+{
+    "emulator.androidColdBoot": true,
+    "emulator.androidExtraBootArgs": "C:\\Users\\T99\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPath": "C:\\Users\\T99\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.simulatorPath": "C:\\Users\\T99\\AppData\\Local\\Android\\Sdk\\emulator",
+    "emulator.emulatorPathWindows": "C:\\Users\\T99\\AppData\\Local\\Android\\Sdk\\emulator"
+}
